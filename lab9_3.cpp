@@ -2,11 +2,6 @@
 #include<string>
 using namespace std;
 
-string check_status()
-{
-    
-}
-
 int main()
 {
     int age, height, property;
